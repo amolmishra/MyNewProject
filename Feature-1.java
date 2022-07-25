@@ -1,6 +1,7 @@
-public class Feature-1 {
+public class Feature {
   
   public static void main() {
-    System.out.println("Feature-1"); 
+    System.out.println("Feature");
+    System.out.println("New Feature");
   }
 }
